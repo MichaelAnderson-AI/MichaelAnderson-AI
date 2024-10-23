@@ -6,7 +6,6 @@ Software Engineer
 
 I'm a dedicated and passionate developer, levelling up everyday.
 
-* 🌍  I'm based in Malaysia
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
 * 🤝  I'm open to collaborating on Projects, Hackathons
 
