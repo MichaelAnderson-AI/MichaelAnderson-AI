@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Michael Anderson
 ==========================================================================================================================================
 
-Full Stack Developer
+Software Engineer
 -------------------
 
 I'm a dedicated and passionate developer, levelling up everyday.
@@ -10,70 +10,98 @@ I'm a dedicated and passionate developer, levelling up everyday.
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
 * 🤝  I'm open to collaborating on Projects, Hackathons
 
-<div style="text-align: center;">
-  <img src="https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Profile Background" style="width: 100%; max-width: 100%;">
+![News24](news24.gif)
+
+#### 👨🏻‍💻 Languages and Tools <br />
+<div align="center">
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/306639/r.svg" alt="R" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452095/ruby.svg" alt="Ruby" height="50" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" height="50" /></a>
 </div>
 
--------------------
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="50" alt="webflow logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="50" alt="webpack logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="50" alt="babel logo"  />
+#### 👨🏻‍💻 AI Engineering <br />
+<div align="center">
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354240/pytorch.svg" alt="PyTorch" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="Tensorflow" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="./keras.png" alt="Keras" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/473778/scikitlearn.svg" alt="Scikit-learn" height="50" /></a>
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353851/hadoop.svg" alt="Hadoop" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/329948/apachehive.svg" alt="Hive" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/372952/spark.svg" alt="Spark" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="GCP" height="50" /></a>  
+</div>
+
+
+#### 👨🏻‍💻 Web Development <br />
+
+<div align="center">
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="Node.js" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/508915/flask.svg" alt="Flask" height="50" /></a>
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" height="50" /></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" height="50" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354252/rails.svg" alt="Rails" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/55835/asp-file-format-symbol.svg" alt="ASP.NET" height="50" /></a>
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" height="50" /></a> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452092/react.svg" alt="React" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="NextJS" height="50" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452130/vue.svg" alt="Vue" height="50" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/369464/nuxtjs.svg" alt="Nuxt" height="50" /></a> 
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/373700/jest.svg" alt="Jest" height="50" /></a>   
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="Redux" height="50" /></a>  
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="Nginx" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349374/git.svg" alt="Git" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452192/docker.svg" alt="Docker" height="50" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="Kubernetes" height="50" /></a>  
+</div>
+
+-------
+
+📊 **My Weekly Coding Time**
+<!--START_SECTION:waka-->
+
+```python
+From: 15 October 2024 - To: 22 October 2024
+
+Total Time: 18 hrs 18 mins
+
+YAML         5 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 %
+Python       5 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Bash         2 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+JavaScript   2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Docker       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+```
+
+-------------------
+<div align="center">
+
+  
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
+
 </div>
 
 -------------------
 
 <p align="center">
-  <a href="michael.anthoney.anderson@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="70" /></a>
+  <a href="michael.anthoney.anderson@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/349378/gmail.svg"  width="70" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/bubblebuddy-ai" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="70" /></a>
+  <a href="https://t.me/bubblebuddy-ai" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452115/telegram.svg"  width="70" /></a>
   &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/1282562843908112418" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png"  width="70" /></a>
+  <a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/354560/whatsapp.svg"  width="70" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/1282562843908112418" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg"  width="70" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.skype.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452100/skype.svg"  width="70" /></a>
 </p>
