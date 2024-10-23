@@ -42,7 +42,7 @@ I'm a dedicated and passionate developer, levelling up everyday.
 #### 👨🏻‍💻 Web Development <br />
 
 <div align="center">
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="Node.js" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -61,7 +61,7 @@ I'm a dedicated and passionate developer, levelling up everyday.
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/373700/jest.svg" alt="Jest" height="50" /></a>   
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="Redux" height="50" /></a>  
 <a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="Nginx" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349374/git.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452192/docker.svg" alt="Docker" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="Kubernetes" height="50" /></a>  
 </div>
@@ -95,11 +95,11 @@ JSON         35 mins         ▓░░░░░░░░░░░░░░░░
 -------------------
 
 <p align="center">
-  <a href="michael.anthoney.anderson@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/349378/gmail.svg"  width="70" /></a>
+  <a href="michael.anthoney.anderson@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg"  width="70" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/bubblebuddy-ai" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452115/telegram.svg"  width="70" /></a>
   &nbsp;&nbsp;
-  <a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/354560/whatsapp.svg"  width="70" /></a>
+  <a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/382712/whatsapp-whats-app.svg"  width="70" /></a>
   &nbsp;&nbsp;
   <a href="https://discordapp.com/users/1282562843908112418" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg"  width="70" /></a>
   &nbsp;&nbsp;
