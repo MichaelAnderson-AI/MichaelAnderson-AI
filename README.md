@@ -54,6 +54,7 @@ I'm a dedicated and passionate developer, levelling up everyday.
 <a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354252/rails.svg" alt="Rails" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/55835/asp-file-format-symbol.svg" alt="ASP.NET" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" height="50" /></a> 
+<a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="Tailwindcss" height="50" /></a> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452092/react.svg" alt="React" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="NextJS" height="50" /></a> 
 <a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452130/vue.svg" alt="Vue" height="50" /></a> 
@@ -95,13 +96,13 @@ JSON         35 mins         ▓░░░░░░░░░░░░░░░░
 -------------------
 
 <p align="center">
-  <a href="michael.anthoney.anderson@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg"  width="70" /></a>
+  <a href="michael.anthoney.anderson@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg"  width="60" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/bubblebuddy-ai" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452115/telegram.svg"  width="70" /></a>
+  <a href="https://t.me/bubblebuddy-ai" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452115/telegram.svg"  width="60" /></a>
   &nbsp;&nbsp;
-  <a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/382712/whatsapp-whats-app.svg"  width="70" /></a>
+  <a href="https://web.whatsapp.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/382712/whatsapp-whats-app.svg"  width="60" /></a>
   &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/1282562843908112418" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg"  width="70" /></a>
+  <a href="https://discordapp.com/users/1282562843908112418" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg"  width="60" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.skype.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452100/skype.svg"  width="70" /></a>
+  <a href="https://www.skype.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452100/skype.svg"  width="60" /></a>
 </p>
