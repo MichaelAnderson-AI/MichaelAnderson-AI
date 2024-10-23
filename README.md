@@ -67,32 +67,6 @@ I'm a dedicated and passionate developer, levelling up everyday.
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="Kubernetes" height="50" /></a>  
 </div>
 
--------
-
-📊 **My Weekly Coding Time**
-<!--START_SECTION:waka-->
-
-```python
-From: 15 October 2024 - To: 22 October 2024
-
-Total Time: 18 hrs 18 mins
-
-YAML         5 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 %
-Python       5 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
-Bash         2 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-JavaScript   2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Docker       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-JSON         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-```
-
--------------------
-<div align="center">
-
-  
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
-
-</div>
-
 <!-- ------------------- -->
 
 <!-- <p align="center">
