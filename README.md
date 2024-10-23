@@ -15,7 +15,7 @@ I'm a dedicated and passionate developer, levelling up everyday.
 #### 👨🏻‍💻 Languages and Tools <br />
 <div align="center">
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 30px" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/306639/r.svg" alt="R" height="50" /></a>
 <a href="" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452095/ruby.svg" alt="Ruby" height="50" /></a>
