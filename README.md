@@ -93,9 +93,9 @@ JSON         35 mins         ▓░░░░░░░░░░░░░░░░
 
 </div>
 
--------------------
+<!-- ------------------- -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="michael.anthoney.anderson@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg"  width="60" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/bubblebuddy-ai" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452115/telegram.svg"  width="60" /></a>
@@ -105,4 +105,4 @@ JSON         35 mins         ▓░░░░░░░░░░░░░░░░
   <a href="https://discordapp.com/users/1282562843908112418" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/343548/discord-communication-interaction-message-network.svg"  width="60" /></a>
   &nbsp;&nbsp;
   <a href="https://www.skype.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/452100/skype.svg"  width="60" /></a>
-</p>
+</p> -->
